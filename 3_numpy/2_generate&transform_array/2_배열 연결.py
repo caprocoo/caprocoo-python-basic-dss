@@ -49,4 +49,3 @@ a = np.array([[0, 1, 2], [3, 4, 5]])
 print(np.tile(a, 2))
 print(np.tile(a, (3, 2)))
 print('---------------------')
-

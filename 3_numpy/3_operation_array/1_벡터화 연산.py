@@ -101,8 +101,3 @@ print(x.sum())
 print(x.sum(axis=0))    # 열 합계
 print(x.sum(axis=1))   # 행 합계
 print('---------------------')
-
-
-
-
-
